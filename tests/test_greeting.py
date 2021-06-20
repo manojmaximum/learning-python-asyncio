@@ -5,4 +5,4 @@ class Test_Greeting:
     
     def test_greet(self):
         greet = greeting('Manoj')
-        assert greet == 'Hello Manoj'
+        assert greet == 'Hello manoj'
